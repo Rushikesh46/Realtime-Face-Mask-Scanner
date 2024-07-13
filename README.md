@@ -3,7 +3,7 @@ First of all install all stuff given below :
 
 1.python (latest version)
 
-2.tensorflow - using "pip install tensorflow" If u r rocking NVDIA GPU then use "pip install tensorflow-gpu".
+2.tensorflow - using "pip install tensorflow", Use "pip install tensorflow-gpu" for NVDIA GPU.
 
 3.keras - using "pip install keras".
 
