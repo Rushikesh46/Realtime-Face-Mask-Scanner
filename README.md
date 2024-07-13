@@ -17,7 +17,7 @@ First of all install all stuff given below :
 
 8.scipy - using "pip install scipy".
 
-9.sklearn - using "pip install sklearn".
+9.sklearn - using "pip install sklearn" or "pip install scikit-learn".
 
 Open CMD in your cloned directory and type "python train_model.py" to train your model and type "python start_project.py" to start project. You can also add more pics in dataset photos to train your model more accurately. 
 
